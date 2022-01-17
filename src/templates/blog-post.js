@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import commentBox from "commentbox.io";
+//import commentBox from "commentbox.io";
 import React, { useEffect, useState } from "react";
 
 const BlogPostTemplate = ({ data, location }) => {
@@ -67,6 +67,7 @@ const BlogPostTemplate = ({ data, location }) => {
         </ul>
       </nav>
       <div className="commentbox" />
+        <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
     </Layout>
   )
 }
