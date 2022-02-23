@@ -45,7 +45,6 @@ const Bio = () => {
       {author?.name && (
         <p>
           I am the lecturer of ECE4880:Senior Design
-          </a>
         </p>
       )}
     </div>
