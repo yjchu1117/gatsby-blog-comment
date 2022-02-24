@@ -17,8 +17,12 @@ This design must satisfy a set of exacting requirements, as laid out in this doc
 -	A cellphone that can receive text messages
 
 
+![Temp Measurement System](./temp_measure_system.jpg)
+
 
 ### Test Report
 
-![Temp Measurement System](./temp_measure_system.jpg)
+
+
+
 
