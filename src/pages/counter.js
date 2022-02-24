@@ -1,5 +1,5 @@
 import React from "react"
-import Layout from "../components/layout"
+//import Layout from "../components/layout"
 
 class Counter extends React.Component {
     constructor(){
@@ -7,7 +7,7 @@ class Counter extends React.Component {
         this.state = { count:0}
     }
     render(){
-        return <Layout>
+        return 
         <div>
             <hi>Counter</hi>
             <p>current count: {this.state.count}</p>
@@ -20,7 +20,6 @@ class Counter extends React.Component {
                 )
             }>minus</button>
         </div>
-        </Layout>
     }
 }
 
