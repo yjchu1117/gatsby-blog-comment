@@ -16,7 +16,6 @@ This design must satisfy a set of exacting requirements, as laid out in this doc
 -	A third box containing, at minimum, a display (e.g. a set of 7-segment LEDs or equivalent), a button, a battery, and a power switch. It is intended that the box, together with the sensor, can act as a battery-operated thermometer. The temperature data is then available on the internet. 
 -	A cellphone that can receive text messages
 
-
 ![Temp Measurement System](./temp_measure_system.jpg)
 
 
