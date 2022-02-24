@@ -10,7 +10,7 @@ const Team = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="Team XXX" />
-      <h1>404: Hello! We are Team XXX!</h1>
+      <h1>Hello! We are Team XXX!</h1>
       <p>Member 1</p>
       <p>Member 2</p>
       <p>Member 3</p>
