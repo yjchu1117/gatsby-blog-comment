@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 
-class Team extends React.Component {
+class Team1 extends React.Component {
     
     render(){
         return <Layout>
@@ -15,4 +15,4 @@ class Team extends React.Component {
     }
 }
 
-export default Team
+export default Team1
