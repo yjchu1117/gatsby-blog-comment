@@ -9,8 +9,8 @@ const Team = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="Team XXX" />
-      <h1>404: Hello! We are Team XXX</h1>
+      <Seo title="404: Not Found" />
+      <h1>404: Not Found</h1>
       <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
     </Layout>
   )
@@ -26,3 +26,4 @@ export const pageQuery = graphql`
       }
     }
   }
+`
