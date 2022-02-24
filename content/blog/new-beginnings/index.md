@@ -20,4 +20,5 @@ This design must satisfy a set of exacting requirements, as laid out in this doc
 
 ### Test Report
 
+![Temp Measurement System](./temp_measure_system.jpg)
 
