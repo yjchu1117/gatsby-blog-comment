@@ -29,6 +29,7 @@ const BlogIndex = ({ data, location }) => {
       <Bio />
       
       <>
+         <img src="team.jpg" alt="team" width="200" height="80">
          <Link to="/team/">Team Intro</Link>
       </>  
         
