@@ -27,8 +27,9 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="All posts" />
       <Bio />
+      
+      <img src="team.jpg">
       <>
-         <img src="team.jpg">
          <Link to="/team/">Team Intro</Link>
       </>  
         
