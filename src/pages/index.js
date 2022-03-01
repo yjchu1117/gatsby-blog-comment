@@ -29,12 +29,7 @@ const BlogIndex = ({ data, location }) => {
       <Bio />
       
       <StaticImage
-        layout="fixed"
-        formats={["auto", "webp", "avif"]}
-        src="team.jpg"
-        width={50}
-        height={50}
-        quality={95}
+        src="./team.jpg"
       />
 
       <>
