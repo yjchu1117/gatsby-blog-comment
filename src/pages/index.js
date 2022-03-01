@@ -29,7 +29,7 @@ const BlogIndex = ({ data, location }) => {
       <Bio />
       
       <>
-         <img src="team.jpg" alt="team" width="200" height="80">
+         <GatsbyImage alt='team' image={getImage(team.jpg)} />
          <Link to="/team/">Team Intro</Link>
       </>  
         
