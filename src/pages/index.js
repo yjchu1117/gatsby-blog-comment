@@ -28,7 +28,10 @@ const BlogIndex = ({ data, location }) => {
       <Seo title="All posts" />
       <Bio />
       
-      <img src="team.jpg">
+      <picture>
+        <img src="team.jpg">
+      </picture>
+
       <>
          <Link to="/team/">Team Intro</Link>
       </>  
