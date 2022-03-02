@@ -5,8 +5,7 @@ description: A Brief introduction about Lab1.
 ---
 
 You are to design a thermometer with a web interface. The “design” is a set of documents that describe how to make this device. Accompanying this design is a prototype that demonstrates that the design works.  
-This design must satisfy a set of exacting requirements, as laid out in this document. Some of these requirements specify the expected functionality and performance of the design and some are mechanical specifications. The primary challenge of this project is to analyze the requirements carefully and create and implement a design that satisfies all of them...
-
+This design must satisfy a set of exacting requirements, as laid out in this document. Some of these requirements specify the expected functionality and performance of the design and some are mechanical specifications...
 ## Requirements:
 
 1.	General Description: This device consists of four separate assemblies:  
