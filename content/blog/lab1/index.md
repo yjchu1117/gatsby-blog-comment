@@ -1,6 +1,5 @@
 ---
-title: Lab 1
-date: "2022-02-23T22:40:32.169Z"
+title: Tessa Schmidts
 description: A Brief introduction about Lab1.
 ---
 
