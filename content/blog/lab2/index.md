@@ -1,6 +1,5 @@
 ---
-title: Lab 2
-date: "2022-04-02T23:46:37.121Z"
+title: Dr. YuJung Chu
 description: A Brief introduction about Lab2.
 ---
 
