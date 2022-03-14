@@ -1,6 +1,5 @@
 ---
-title: Lab 3
-date: "2022-05-15T22:12:03.284Z"
+title: Prof. Yang Liu
 description: A Brief introduction about Lab3.
 ---
 
