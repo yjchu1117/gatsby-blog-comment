@@ -1,5 +1,5 @@
 ---
-title: Tessa Schmidts
+title: Prof. Yang Liu
 description: A Brief introduction about Lab1.
 ---
 
