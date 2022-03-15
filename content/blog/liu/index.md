@@ -5,7 +5,7 @@ description: "Lovely Dog, Alvin!"
 
 Here is Prof. Liu's lovely dog!
 
-> Alvin likes play with good friends!
+> Alvin likes to play with good friends!
 
 ![Alvin](./alvin.jpg)
 
