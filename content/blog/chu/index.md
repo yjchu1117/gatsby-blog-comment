@@ -2,7 +2,7 @@
 title: Dr. YuJung Chu
 description: Industry Working Experience
 ---
-> The two projects I had in industry when I was working for Kcodes Corporation.
+> Two projects I had in industry when I was working for Kcodes Corporation.
 
 ### Star Micronics Thermal POS Printers
 
