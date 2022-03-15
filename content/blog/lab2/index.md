@@ -1,6 +1,10 @@
 ---
 title: Dr. YuJung Chu
-description: A Brief introduction about Lab2.
+description: Industry Working Experience
 ---
 
-This lab involves an important problem that frequently arises in capstone projects: dealing with noisy sensor data. A naïvely designed system that is built and tested assuming perfect signal inputs cannot be trusted to work reliably in practice. In this lab, we will look at an example of such an application where we need to design a system that observes a physical variable predictably and reliably even when the signal of interest is mixed in with various disturbances.
+## Star Micronics Thermal POS Printers
+![Star Thermal Printer](./star.png)
+
+## Western Digital SMB Implementation
+![WD Nas System](./WD.jpg)
