@@ -2,8 +2,9 @@
 title: Prof. Yang Liu
 ---
 
+Here is Prof. Liu's lovely dog!
 
-![Temp Measurement System](./temp_measure_system.jpg)
+![Alvin](./alvin.jpg)
 
 
 
